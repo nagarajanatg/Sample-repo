@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic, retain) IBOutlet UILabel *labl;
+@property (nonatomic, retain) IBOutlet UILabel *labl111;
 
 @end
 
